@@ -8,6 +8,8 @@ ROSE-AP of the PoRoLog project, offers
 - Bootstrapping ROS2 software that can be installed in a ROS2-enabled Robot to automatically connect it to the NOOS Open infrastructure
 - [Codin](https://codin.issel.ee.auth.gr) dashboards, via which a Warehouse that uses the NOOS Open infrastructure can inspect its real-time status.
 
+A tutorial is available at https://www.youtube.com/watch?v=_dSlfYfUmKg
+
 This project is part of [DIH^2](http://www.dih-squared.eu/).
 
 ## Contents
