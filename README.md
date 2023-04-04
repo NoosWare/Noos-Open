@@ -695,7 +695,7 @@ In the case where anyone wants to implement their own controllers (or some of th
 
 # Step by step tutorial
 
-The step by step tutorial will be uploaded to YouTube and the link will be posted here!
+Step by step tutorial on Noos-Open can be found here: https://www.youtube.com/watch?v=_dSlfYfUmKg
 
 ---
 
